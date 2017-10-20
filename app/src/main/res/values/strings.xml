@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EncryptMe v1.0.3</string>
+    <string name="encryptButton">Encrypt</string>
+    <string name="decryptButton">Decrypt</string>
+    <string name="strEncrypt">Encrypt</string>
+    <string name="incSubmit">Submit</string>
+    <string name="strDecrypt">Decrypt</string>
+    <string name="decSubmit">Submit</string>
+</resources>
