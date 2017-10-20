@@ -1,4 +1,4 @@
-#EncryptMe
+<h2>EncryptMe</h2>
 
 EncryptMe is a fun app that sheds a positive light on the idea of encryption. This app will input text, encrypt the data, and output the encrypted data.
 
